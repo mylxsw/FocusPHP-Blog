@@ -1,3 +1,5 @@
 .svn/
 src/Configs/config_db.php
 .idea
+/vendor
+composer.lock
