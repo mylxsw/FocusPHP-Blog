@@ -1,2 +1,3 @@
 .svn/
-./src/Configs/config_db.php
+src/Configs/config_db.php
+.idea
